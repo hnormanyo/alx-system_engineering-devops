@@ -9,3 +9,4 @@
 9. A script that removes all permission to the owner and the group owner,but grant other users all permision to the file hello.
 10. A script that sets the mode of the file hello to -rwx-x-wx.
 11. A script that sets the mode of the file hello the same as olleh.
+12. A script that adds and execute permission to all subdirectories of the current directory owner,the group owner and all othe user without changing regular files.
