@@ -11,3 +11,4 @@
 11. A script that sets the mode of the file hello the same as olleh.
 12. A script that adds and execute permission to all subdirectories of the current directory owner,the group owner and all othe user without changing regular files.
 13. A script that creates a directory called my_dir with permissions 751 in the working directory.
+14. A script that changes the group owner to school for the file hello  .
