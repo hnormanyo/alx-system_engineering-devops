@@ -1,2 +1,2 @@
-i#!/bin/bash
+:wq#!/bin/bash
 echo $((POWER/DIVIDE))
